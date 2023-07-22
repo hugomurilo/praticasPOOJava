@@ -8,6 +8,10 @@ aqui postados são propostos no curso.
 
 https://www.udemy.com/course/java-curso-completo/
 
+## Disponíveis para consulta
+- cadastroFuncionarios
+- contaBanco
+
 # Autor 
 ### Hugo Almeida 
 
