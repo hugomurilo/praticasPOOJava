@@ -7,3 +7,8 @@ Meus estudos são baseados no curso de Java do profesor Nélio Alves, o qual pod
 aqui postados são propostos no curso. 
 
 https://www.udemy.com/course/java-curso-completo/
+
+# Autor 
+### Hugo Almeida 
+
+https://www.linkedin.com/in/hugo-murilo/
