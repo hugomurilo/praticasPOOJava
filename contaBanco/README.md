@@ -8,7 +8,7 @@ Em seguida, realiza um depósito e depois um saque, o qual possui uma taxa fixa 
 ## Modelo de domínio UML
 ![modelo de domínio](https://github.com/hugomurilo/praticasPOOJava/blob/main/assets/imgReadme/dominioConta.png)
 
-# Programa em funcionamento 
+# Programa em Execução
 ## Opção com depósito inicial 
 ![com depósito inicial](https://github.com/hugomurilo/praticasPOOJava/blob/main/assets/imgReadme/contaBanco1.PNG)
 ## Opção sem depósito inicial
@@ -25,6 +25,6 @@ Em seguida, realiza um depósito e depois um saque, o qual possui uma taxa fixa 
 - Draw.io
 
 # Autor 
-### Hugo Almeida 
+[<img src="https://avatars.githubusercontent.com/u/129471528?v=4" width=130><br><sub>Hugo Murilo</sub>](https://github.com/hugomurilo)
 
 https://www.linkedin.com/in/hugo-murilo/
