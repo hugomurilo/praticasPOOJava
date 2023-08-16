@@ -9,10 +9,12 @@ aqui postados são propostos no curso.
 https://www.udemy.com/course/java-curso-completo/
 
 ## Disponíveis para consulta
-- cadastroFuncionarios
-- contaBanco
+- [cadastroFuncionarios](https://github.com/hugomurilo/praticasPOOJava/tree/main/cadastroFuncionarios)
+- [contaBanco](https://github.com/hugomurilo/praticasPOOJava/tree/main/contaBanco)
+- [pedidos_composicao](https://github.com/hugomurilo/praticasPOOJava/tree/main/pedidos_composicao)
+- [taxPayer_polimorfismo](https://github.com/hugomurilo/praticasPOOJava/tree/main/taxPayer_polimorfismo)
 
 # Autor 
-### Hugo Almeida 
+[<img src="https://avatars.githubusercontent.com/u/129471528?v=4" width=130><br><sub>Hugo Murilo</sub>](https://github.com/hugomurilo)
 
 https://www.linkedin.com/in/hugo-murilo/
