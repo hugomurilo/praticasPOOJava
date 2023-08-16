@@ -26,6 +26,6 @@ Praticar o uso de listas
 - Draw.io
 
 # Autor 
-### Hugo Almeida 
+[<img src="https://avatars.githubusercontent.com/u/129471528?v=4" width=130><br><sub>Hugo Murilo</sub>](https://github.com/hugomurilo)
 
 https://www.linkedin.com/in/hugo-murilo/
