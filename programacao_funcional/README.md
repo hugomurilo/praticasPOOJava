@@ -18,6 +18,7 @@ Mostrar também a soma dos salários dos funcionários cujo nome começa com a l
 - Criação de pipelines e o uso da Stream API para processar os dados conforme a regra de negócio
   
 # Ferramentas utilizadas 
+- Java 17
 - IntelliJ IDEA
 
 # Autor 
