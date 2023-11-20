@@ -1,9 +1,6 @@
 # Programa para processamento de dados 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-## Sobre o exercício 
-O objetivo da atividade é aplicar os conceitos de programação funcional e expressões lambdas
-
 ## Regras de negócio da aplicação
 Fazer um programa para ler os dados (nome, email e salário)
 de funcionários a partir de um arquivo em formato .csv.
